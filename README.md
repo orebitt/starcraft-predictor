@@ -46,3 +46,27 @@ The RandomForestClassifier model achieved a test accuracy of 37.33%, which impro
 The project highlights the importance of calibration in refining model predictions and offers valuable insights for evaluating player performance and improving skill levels in StarCraft.
 
 Please note that the dataset exhibited class imbalance, and future work may involve addressing this imbalance to further enhance the model's performance.
+
+## Dependencies 
+To run this project, you will need the following dependencies:
+
+- Python (version 3.6 or higher)
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+These dependencies can be easily installed using pip, the Python package installer. You can install them by running the following command in your terminal:
+```
+pip install pandas numpy scikit-learn matplotlib
+```
+
+## Running the Project
+
+Execute the code with:  
+
+```
+python main.py
+```
+
+The result will be shown in the console.
